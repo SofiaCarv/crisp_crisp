@@ -87,10 +87,10 @@ header.innerHTML = `
 
 <li>
 	<div class="dropdown-2">
-		<button class="dropbtn-2"><i class="fa fa-bar-chart-o fa-2x" style="color: #f3f4f3;"></i></button>
+		<button class="dropbtn-2"><i class="fa fa-solid fa-database fa-2x"></i></button>
 			<div class="dropdown-content-2">
 				<a href="dados.html" style="height: 68px;">referências de dados</a>
-				<!--<a href="#" style="height: 68px;">mapas</a>-->
+				<a href="repositorio.html" style="height: 85px;">projeto repositório de dados</a>
 			</div>
 	</div>
 </li>
